@@ -93,11 +93,4 @@ Okay, I'll synthesize the information from the GitHub roadmap link and your resu
 *   **Focus on Cloud Deployment**: Your experience in deploying models on AWS and Azure is critical.
 *   **Quantify Results**: Whenever possible, quantify the impact of your projects (e.g., "Improved accuracy by X%", "Reduced processing time by Y%").
 
-This roadmap is designed to build upon your existing skills and experience, helping you progress towards your career goals in data science. Good luck!
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/60771210/b7c0b700-3ed8-4fc6-9cd3-dc137e3e2f39/NagaShivaChinmayee_Datascience.pdf
-[2] https://github.com/MrMimic/data-scientist-roadmap/tree/master
-
----
-Answer from Perplexity: pplx.ai/share
